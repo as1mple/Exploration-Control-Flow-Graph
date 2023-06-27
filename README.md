@@ -3,7 +3,7 @@ _ _ _
 
 ## Introduction
 
-[Control Flow Graph (CFG)]((https://habr.com/ru/articles/742798/)) is a graph where nodes represent basic blocks of code and edges represent transitions between them.
+[Control Flow Graph (CFG)](https://habr.com/ru/articles/742798/) is a graph where nodes represent basic blocks of code and edges represent transitions between them.
 In static code analysis, CFG can be used to detect potential issues in the code.
 
 
